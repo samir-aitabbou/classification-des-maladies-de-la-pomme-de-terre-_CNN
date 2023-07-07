@@ -1,4 +1,4 @@
-## Deep-Leaning-Projects
+# Project Deep-Leaning
 # Aperçu du projet
 La pomme de terre est une culture importante qui est sensible à diverses maladies. La détection précoce et la classification de ces maladies sont cruciales pour prévenir les pertes de rendement. Ce projet vise à développer un système de classification qui peut identifier avec précision différentes maladies affectant les plants de pomme de terre à l'aide de techniques d'apprentissage en profondeur.
 # Base de données
